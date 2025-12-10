@@ -13,16 +13,14 @@ The system offers a clean user interface, efficient processing, and support for 
 - Responsive and minimal UI
 - Hosted using GitHub Pages
 - Real-time API-based processing
--  User-friendly interface
+- User-friendly interface
 - Lightweight and fast
 
 
-📂 Project Structure
-translation-tool/
-│
-├── index.html       # Main UI and page content
-├── script.js        # Translation logic
-└── README.md        # Project documentation
+📂 Project Structure 
+ 1.index.html      
+ 2.script.js        
+ 3. README.md  
 
 🛠️ Technologies Used
  HTML5 – page structure
